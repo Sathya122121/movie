@@ -1,5 +1,7 @@
 # movie
 
-step1: pull the code from git using the http link **https://github.com/Sathya122121/movie.git**
+Step 1: Create an empty folder, open cmd and go to that folder location. Run the following commands:
+  git remote add origin https://github.com/Sathya122121/movie.git
+  git pull origin master
 
-step2: Open Visual Studio, in terminal, go to your project folder, run the command **ng serve -o**
+step 2: Open Visual Studio, go to the project folder, run the command **ng serve -o** in the visual studio terminal.
